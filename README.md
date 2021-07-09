@@ -1,2 +1,2 @@
 # Atom
-This project is the compilation of python codes developed during practice while learning Python.
+This project is the compilation of python codes developed for practicing while learning Python.
