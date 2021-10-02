@@ -1,3 +1,3 @@
 # Atom
 
-Learn python with Think Python pdf
+This project is the compilation of python codes developed for practicing while learning Python.
